@@ -2,14 +2,13 @@
 
 ## LibC part
 
-- [ ] isalpha
-- [ ] isdigit
-- [ ] isalnum
-- [ ] isascii
-- [ ] isprint
-- [ ] strlen
-- [ ] memset
-- [ ] bzero
+- [X] isalpha
+- [X] isdigit
+- [X] isalnum
+- [X] isascii
+- [X] isprint
+- [X] memset
+- [X] bzero
 - [ ] strlcpy
 - [ ] strlcat
 - [ ] toupper
